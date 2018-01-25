@@ -83,6 +83,8 @@
     }];
     [self.hkView.label addGestureRecognizer:tap];
     
+    
+    //创建仓库
 }
 
 -(void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
